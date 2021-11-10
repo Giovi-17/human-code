@@ -17,9 +17,10 @@ RISOLUZIONE DI GRUPPO
 
 PER OGNI figurina del pacchetto controllo l'album
     SE il posto é vuoto
-        5. Attacco la figurina
+        5. Prendo la figurina
+        6. Attacco la figurina
 
-    ALTRIMENTI - 5. Metto nella lista doppioni    
+    ALTRIMENTI - 6. Metto nella lista doppioni    
 
 
 
@@ -40,3 +41,11 @@ FINCHÉ non finisco le figurine del pacchetto
         9. -Aggiungere la figurina alla lista doppioni
 
         ALTRIMENTI - 9. Incollare la figurina
+
+10. Prendo la lista doppioni
+11. Controllo le carte che mancano all'album
+11. Negozio la carta con una che mi manca dal mio album
+    SE il mio amico accetta lo scambio
+        12. Gli do la figurina da lui voluta
+        13. Prendo la figurina che manca al mio album
+        14. Attacco la nuova figurina all'album       
