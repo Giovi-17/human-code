@@ -1,0 +1,42 @@
+Aprire un pacchetto di figurine
+Ce l’ho, mi manca!
+
+Che emozione, 
+ogni volta che apro un pacchetto nuovo... chissà se troverò quella figurina così rara!
+Dopo averle sfilate dal pacchetto, 
+me le passo tra le mani controllando nell’album: attacco subito quelle nuove, 
+mentre le doppie le metto in un mazzetto a parte. Ormai ne sto accumulando diverse, 
+spero di riuscire a combinare diversi scambi sabato con i miei amici!
+
+RISOLUZIONE DI GRUPPO
+
+1. Apro il pacchetto di figurine
+2. Estraggo le figurine 
+3. Apro l'album
+4. Scorro le figurine
+
+PER OGNI figurina del pacchetto controllo l'album
+    SE il posto é vuoto
+        5. Attacco la figurina
+
+    ALTRIMENTI - 5. Metto nella lista doppioni    
+
+
+
+
+RISOLUZIONE PERSONALE
+
+1. Prendere il pacchetto di figurine
+2. Aprire il pacchetto di figurine
+3. Estrarre le figurine dal pacchetto
+4. Prendere album
+5. Aprire album
+
+FINCHÉ non finisco le figurine del pacchetto
+
+    6. Prendere una delle figurine estratte
+    7. Sfogliare album e cercare lo spazio corrispondente della figurina
+    8. SE lo spazio é giá occupato da una figurina
+        9. -Aggiungere la figurina alla lista doppioni
+
+        ALTRIMENTI - 9. Incollare la figurina
